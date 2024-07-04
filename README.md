@@ -9,6 +9,7 @@
 <h3>Actionalbe Insights and Recomendations:</h3><h2>End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction</h2>
 <h2>LEARNING</h2>
 <h3>Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accuratte sales forecasting, and interactive dashboard creation, driving business success.</h3>
+<h2>Screenshots</h2>
 <img src="Screenshot 2024-07-04 194003.png"  >
 <br>
 <img src="Screenshot 2024-07-04 201633.png">
